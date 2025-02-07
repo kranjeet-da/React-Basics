@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactDOM, createRoot } from 'react-dom/client';
 
-//React.createElement is a JS Object
+//React.createElement is a JS Object.
 const heading = React.createElement(
     "div", //Which tag to be created?
     {id : "parent"}, //attributes
