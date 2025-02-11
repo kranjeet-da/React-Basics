@@ -1,8 +1,6 @@
 
-#child1{
-    background-color: bisque;
-}
+.object-contain{
+    width: 200px;
+    height: 200px;
 
-#child2{
-    color : rgb(12, 63, 63);
 }
